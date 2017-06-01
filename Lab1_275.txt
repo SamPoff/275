@@ -1,0 +1,125 @@
+/*
+ * Samuel Poff
+ * 23 Aug 2016
+ * A guessing game where the user inputs a number between 1 and 100 and the program lets them know how they guessed.
+*/
+
+
+#include <iostream>
+using namespace std;
+int main()  {
+    
+    int userInput;
+	
+	// Generate a random number in [1,100]
+	int randNum = rand() % 100 + 1;
+	cout << randNum;
+	
+    // Prompt the user to input a value
+    cout << "Please enter a nuber between 1 and 100." << endl;
+    
+    // Input validation - data type
+    bool fail = true;
+    while (fail)  {
+        
+        if (cin >> userInput)   [
+            
+            if (userInput <= 100 && userInput >= 1)  {
+              
+              fail = false;  
+                
+            } // End if
+            
+            else  {
+                
+                cin.clear();
+                string invalid;
+                cin >> invalid;
+                cout << "invalid input" << endl;
+                
+                
+            } // End else
+            
+        } // End if
+        
+    } // End while
+    
+    // Input validation - range
+    while (userInput < 1 || userInput > 100)  {
+        
+        cout << "Your number must be between 1 and 100, please re-enter your number" << endl;
+        cin >> userInput;
+        
+    }// End while
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	/*
+ * Samuel Poff
+ * 23 Aug 2016
+ * A guessing game where the user inputs a number between 1 and 100 and the program lets them know how they guessed.
+*/
+
+
+#include <iostream>
+using namespace std;
+int main()  {
+    
+    int userInput;
+	
+	// Generate a random number in [1,100]
+	int randNum = rand() % 100 + 1;
+	cout << randNum;
+	
+    // Prompt the user to input a value
+    cout << "Please enter a nuber between 1 and 100." << endl;
+    
+    // Input validation - data type
+    bool fail = true;
+    while (fail)  {
+        
+        if (cin >> userInput)   [
+            
+            if (userInput <= 100 && userInput >= 1)  {
+              
+              fail = false;  
+                
+            } // End if
+            
+            else  {
+                
+                cin.clear();
+                string invalid;
+                cin >> invalid;
+                cout << "invalid input" << endl;
+                
+                
+            } // End else
+            
+        } // End if
+        
+    } // End while
+    
+    // Input validation - range
+    while (userInput < 1 || userInput > 100)  {
+        
+        cout << "Your number must be between 1 and 100, please re-enter your number" << endl;
+        cin >> userInput;
+        
+    }// End while

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477428686 source:c:\users\sam\desktop\275\inclass_8\main.cpp
+	<iostream>
+	"Fraction.h"
+	"Fraction.cpp"
+
+1477427847 c:\users\sam\desktop\275\inclass_8\fraction.h
+	<iostream>
+
+1477428280 c:\users\sam\desktop\275\inclass_8\fraction.cpp
+	"Fraction.h"
+	<iostream>
+

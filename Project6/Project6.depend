@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1481056309 source:c:\users\sam\desktop\275\project6\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<queue>
+	<Point.h>
+
+1480974628 source:c:\users\sam\desktop\275\project6\src\point.cpp
+	"Point.h"
+
+1481003225 c:\users\sam\desktop\275\project6\include\point.h
+

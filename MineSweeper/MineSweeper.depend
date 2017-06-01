@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1473367185 source:c:\users\sam\desktop\275\minesweeper\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<iomanip>
+	<locale>
+	<sstream>
+

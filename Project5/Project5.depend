@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1479319683 source:c:\users\sam\desktop\275\project5\main.cpp
+	<LinkedList.h>
+	<Person.h>
+	<iostream>
+	<sstream>
+	<fstream>
+
+1479317874 c:\users\sam\desktop\275\project5\include\linkedlist.h
+	<iostream>
+	<Person.h>
+
+1479317939 c:\users\sam\desktop\275\project5\include\person.h
+	<iostream>
+
+1479353407 source:c:\users\sam\desktop\275\project5\src\linkedlist.cpp
+	<LinkedList.h>
+	<Person.h>
+	<iostream>
+
+1479317111 source:c:\users\sam\desktop\275\project5\src\person.cpp
+	"Person.h"
+

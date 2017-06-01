@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1478804458 source:c:\users\sam\desktop\275\inclass_11\main.cpp
+	<Point.h>
+	<Stack.h>
+	<iostream>
+	<sstream>
+	<vector>
+
+1478749884 source:c:\users\sam\desktop\275\inclass_11\src\point.cpp
+	"Point.h"
+
+1478749884 c:\users\sam\desktop\275\inclass_11\include\point.h
+
+1478749885 source:c:\users\sam\desktop\275\inclass_11\src\stack.cpp
+	"Stack.h"
+
+1478749884 c:\users\sam\desktop\275\inclass_11\include\stack.h
+	<iostream>
+	<Point.h>
+

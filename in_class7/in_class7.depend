@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1476216738 source:c:\users\sam\desktop\275\in_class7\bankaccount.cpp
+	"BankAccount.h"
+
+1476218063 source:c:\users\sam\desktop\275\in_class7\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"BankAccount.h"
+
+1476216576 c:\users\sam\desktop\275\in_class7\bankaccount.h
+
+1476215422 c:\users\sam\desktop\275\in_class7\bankaccount.cpp
+	<cstdlib>
+	"BankAccount.h"
+

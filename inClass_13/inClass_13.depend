@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1480568397 source:c:\users\sam\desktop\275\inclass_13\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<vector>
+	"Word.h"
+	"BST.h"
+
+1480567892 c:\users\sam\desktop\275\inclass_13\include\word.h
+	"BST.h"
+	<iostream>
+
+1480568301 c:\users\sam\desktop\275\inclass_13\include\bst.h
+	<iostream>
+	"Word.h"
+
+1480566269 source:c:\users\sam\desktop\275\inclass_13\src\bst.cpp
+	"BST.h"
+	"Word.h"
+
+1480566390 source:c:\users\sam\desktop\275\inclass_13\src\word.cpp
+	"Word.h"
+	"BST.h"
+

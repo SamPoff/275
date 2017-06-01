@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477867391 source:c:\users\sam\desktop\275\in_class9\main.cpp
+	<Square.h>
+	<List.h>
+	<iostream>
+
+1477867704 c:\users\sam\desktop\275\in_class9\include\square.h
+	<ostream>
+
+1477867747 c:\users\sam\desktop\275\in_class9\include\list.h
+	<iostream>
+	<Square.h>
+
+1477867704 source:c:\users\sam\desktop\275\in_class9\src\list.cpp
+	"List.h"
+	<Square.h>
+	<assert.h>
+
+1477867391 source:c:\users\sam\desktop\275\in_class9\src\square.cpp
+	"Square.h"
+

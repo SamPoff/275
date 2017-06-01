@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478207502 source:c:\users\sam\desktop\275\inclass_10\main.cpp
+	<LinkedList.h>
+
+1478203740 c:\users\sam\desktop\275\inclass_10\include\linkedlist.h
+	<iostream>
+
+1478207455 source:c:\users\sam\desktop\275\inclass_10\src\linkedlist.cpp
+	<LinkedList.h>
+	<assert.h>
+
